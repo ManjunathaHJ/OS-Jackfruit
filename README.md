@@ -6,6 +6,7 @@ This project implements a simple container engine using chroot, process manageme
 👥 Team Information
 Manjuntha H J — SRN: PES1UG24AM157
 Mohit S — SRN: PES1UG24AM166
+
 ⚙️ Features
 Multi-container execution (alpha, beta)
 Supervisor-based container lifecycle management
@@ -15,6 +16,7 @@ Logging using pipes
 CPU vs I/O workload scheduling demonstration
 Kernel module monitoring (soft & hard limits)
 Clean teardown with no zombie processes
+
 🛠️ Setup & Execution
 Build Project
 make
