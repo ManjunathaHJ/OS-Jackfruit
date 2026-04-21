@@ -47,34 +47,38 @@ sudo pkill -9 engine
 sudo rm -f /tmp/engine_socket
 📸 Demo Screenshots
 1. Multi-container supervision
-Multi-container
 <img width="1600" height="534" alt="Multi-container supervision" src="https://github.com/user-attachments/assets/05c4e549-96ff-4781-897a-f1b8ba8956c4" />
 
 
 3. Metadata tracking
-Metadata
 <img width="1600" height="531" alt="Metadata tracking" src="https://github.com/user-attachments/assets/d24ad86c-edff-43aa-a1b8-1aec98601033" />
 
 
 
 5. Logging output
-Logs
+<img width="1600" height="533" alt="Logs" src="https://github.com/user-attachments/assets/1a317fd9-72e5-4c96-9822-911cfe9b179c" />
+
 
 
 7. CLI and IPC
-IPC
+<img width="1537" height="1023" alt="IPC" src="https://github.com/user-attachments/assets/957d5fa3-bdeb-4eb0-a045-59ce97461d1b" />
+
 
 8. Soft-limit warning
-Soft Limit
+<img width="1600" height="889" alt="Soft Limit" src="https://github.com/user-attachments/assets/a631740d-3c71-4529-8d54-307c996beb7f" />
+
 
 9. Hard-limit enforcement
-Hard Limit
+<img width="1600" height="889" alt="Hard Limit" src="https://github.com/user-attachments/assets/47e4c2a8-becd-4484-8792-4b5eb28ae986" />
+
 
 10. Scheduling experiment
-Scheduling
+<img width="1494" height="1052" alt="Scheduling" src="https://github.com/user-attachments/assets/9ca57fd3-a5ed-4c9b-acd1-44bddfda31b0" />
+
 
 11. Clean teardown
-Teardown
+<img width="1600" height="534" alt="Teardown" src="https://github.com/user-attachments/assets/69d5d0eb-60c6-402e-9629-c95d5868a712" />
+
 
 🧠 System Design
 Container Isolation
